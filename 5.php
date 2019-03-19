@@ -10,15 +10,15 @@
 $x=18;
 $y=8;
 $z=$x/$y;
-echo "div:" ,$z;
+echo "div:\n" ,$z;
 
 $x=30;
 $y=6;
 $z=$x/$y;
-echo "div:" ,$z;
+echo "\ndiv:\n" ,$z;
 
 $x=84;
 $y=12;
 $z=$x/$y;
-echo "div:" ,$z;
+echo "\ndiv:\n" ,$z;
 ?>

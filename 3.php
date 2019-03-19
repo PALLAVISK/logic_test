@@ -10,15 +10,15 @@
 $x=10;
 $y=5;
 $z=$x-$y;
-echo "sub:" ,$z;
+echo "sub:\n" ,$z;
 
 $x=6;
 $y=6;
 $z=$x-$y;
-echo "sub:" ,$z;
+echo "\nsub:\n" ,$z;
 
 $x=6;
 $y=3;
 $z=$x-$y;
-echo "sub:" ,$z;
+echo "\nsub:\n" ,$z;
 ?>
