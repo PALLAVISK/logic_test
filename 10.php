@@ -1,6 +1,7 @@
 <?php
 
 /**
+ * swapping of two numbers
  * Input: 15,17 Ouput: 17,15
  * Input: 97,35 Output: 35,97
  * Input: 33,4 Output: 4,33
